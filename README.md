@@ -2,7 +2,7 @@
 
 Contador de vagas em um hotel.
 
-![Screenshot_1629142046](https://user-images.githubusercontent.com/50029136/129618893-1d089616-f1a2-4e3b-8f3c-3459ea99e51c.png)
+<img src="https://user-images.githubusercontent.com/50029136/129618893-1d089616-f1a2-4e3b-8f3c-3459ea99e51c.png" width=30% height=30%>
 
 ## Executing
 
